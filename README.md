@@ -39,6 +39,10 @@ Dependencies
 + libopencm3
 + stlink
 
+For MacOS
+---------
+
+> brew install --cask gcc-arm-embedded
 
 Building from source
 --------------------
